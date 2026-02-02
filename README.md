@@ -52,7 +52,7 @@ The project is designed using BDD principles. The following are example behavior
 ## Technologies Used
 - **HTML** – for webpage structure  
 - **CSS** – for styling and layout  
-- **JavaScript** – for form handling, date calculations, and DOM manipulation  
+- **JavaScript** – for form handling, date calculations and DOM manipulation  
 
 ---
 
