@@ -41,4 +41,6 @@ input [type="date"]{
     margin-bottom: 15px;
 }
 /*Radio buttons*/
-
+input[type="radio"]{
+    margin-right: 15px;
+}
