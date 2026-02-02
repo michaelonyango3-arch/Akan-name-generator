@@ -1,4 +1,5 @@
 // Akan names based on the day of the week
+
 const maleNames = [
     "Kwasi",   // Sunday
     "Kwadwo",  // Monday
@@ -19,3 +20,6 @@ const femaleNames = [
     "Ama"      // Saturday
 ];
 // Form submit event
+
+document.getElementById("akanform").addEventListener("submit",) function (event) {
+    event.preventDefault();} // stop the page from refreshing
