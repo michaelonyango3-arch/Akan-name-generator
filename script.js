@@ -1,2 +1,20 @@
 // Akan names based on the day of the week
-const maleNames
+const maleNames = [
+    "Kwasi",   // Sunday
+    "Kwadwo",  // Monday
+    "Kwabena", // Tuesday
+    "Kwaku",   // Wednesday
+    "Yaw",     // Thursday
+    "Kofi",    // Friday
+    "Kwame"    // Saturday
+]
+
+const femaleNames = [
+    "Akosua",  // Sunday
+    "Adwoa",   // Monday
+    "Abenaa",  // Tuesday
+    "Akua",    // Wednesday
+    "Yaa",     // Thursday
+    "Afua",    // Friday
+    "Ama"      // Saturday
+];
