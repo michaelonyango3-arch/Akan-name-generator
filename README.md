@@ -6,10 +6,10 @@ The **Akan Name Generator** is a web application that determines your Akan name 
 ---
 
 ## Author(s)
-**Your Name**  
-School: [Your School Name]  
-Course: [Course Name]  
-Email: [Your Email]
+**Michael R. Onyango**  
+School: [Moringa School]  
+Course: [Software Engineering]  
+Email: [rolfonyango@gmail.com]
 
 ---
 
@@ -50,16 +50,16 @@ The project is designed using BDD principles. The following are example behavior
 ---
 
 ## Technologies Used
-- **HTML5** – for webpage structure  
-- **CSS3** – for styling and layout  
-- **JavaScript (ES6)** – for form handling, date calculations, and DOM manipulation  
+- **HTML** – for webpage structure  
+- **CSS** – for styling and layout  
+- **JavaScript** – for form handling, date calculations, and DOM manipulation  
 
 ---
 
 ## Contact Information
-- **Name:** Your Name  
-- **Email:** your.email@example.com  
-- **School/Organization:** Your School Name  
+- **Name:** Michael Onyango  
+- **Email:** rolfonyango@gmail.com  
+- **School/Organization:** Moringa School  
 
 ---
 
@@ -69,4 +69,3 @@ The project is designed using BDD principles. The following are example behavior
 - © 2026 [Your Name]. All rights reserved.
 
 ---
-n-name-generator
