@@ -5,7 +5,7 @@ The **Akan Name Generator** is a web application that determines your Akan name 
 
 ---
 
-## Author(s)
+## Author
 **Michael R. Onyango**  
 School: [Moringa School]  
 Course: [Software Engineering]  
