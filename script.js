@@ -27,3 +27,9 @@ document.getElementById("akanform").addEventListener("submit",) function (event)
      // Get user input
     const birthdate = document.getElementById("birthdate").value;
     const gender = document.querySelector('input[name="gender"]:checked');
+
+    // Validation
+    if (!birthdate || !gender) {
+        alert("Please enter your birthdate and select a gender.");
+        return;
+    }
