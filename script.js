@@ -21,8 +21,8 @@ const femaleNames = [
 ];
 // Form submit event
 
-document.getElementById("akanform").addEventListener("submit",) function (event) {
-    event.preventDefault();} // stop the page from refreshing
+document.getElementById("akanform").addEventListener("submit", function (event) {
+    event.preventDefault(); // stop the page from refreshing
 
      // Get user input
     const birthdate = document.getElementById("birthdate").value;
@@ -46,3 +46,8 @@ document.getElementById("akanform").addEventListener("submit",) function (event)
     } else {
         akanName = femaleNames[dayOfWeek];
     }
+
+   // Display result
+document.getElementById("akanname").textContent =
+ `Your Akan name is ${akanName}!`;
+ }); // closes function and addEventListener
