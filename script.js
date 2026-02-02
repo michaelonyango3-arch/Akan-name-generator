@@ -23,3 +23,7 @@ const femaleNames = [
 
 document.getElementById("akanform").addEventListener("submit",) function (event) {
     event.preventDefault();} // stop the page from refreshing
+
+     // Get user input
+    const birthdate = document.getElementById("birthdate").value;
+    const gender = document.querySelector('input[name="gender"]:checked');
