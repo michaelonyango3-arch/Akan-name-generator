@@ -18,3 +18,4 @@ const femaleNames = [
     "Afua",    // Friday
     "Ama"      // Saturday
 ];
+// Form submit event
