@@ -44,4 +44,14 @@ input [type="date"]{
 input[type="radio"]{
     margin-right: 15px;
 }
-/*Buttons*/
+/*Button*/
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
