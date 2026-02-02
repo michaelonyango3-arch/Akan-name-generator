@@ -34,7 +34,7 @@ label{
     color: #333;
 }
 /*Inputs*/
-input [type="date"]{
+input[type="date"]{
     width: 100%;
     padding: 8px;
     margin-top: 5px;
