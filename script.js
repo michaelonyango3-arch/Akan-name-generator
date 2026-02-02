@@ -33,3 +33,16 @@ document.getElementById("akanform").addEventListener("submit",) function (event)
         alert("Please enter your birthdate and select a gender.");
         return;
     }
+
+    // Convert date and get day of week
+    const date = new Date(birthdate);
+    const dayOfWeek = date.getDay(); // 0 = Sunday, 6 = Saturday
+
+
+ // Determine Akan name
+    let akanName;
+    if (gender.value === "male") {
+        akanName = maleNames[dayOfWeek];
+    } else {
+        akanName = femaleNames[dayOfWeek];
+    }
