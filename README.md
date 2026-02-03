@@ -66,6 +66,6 @@ The project is designed using BDD principles. The following are example behavior
 ## License and Copyright
 - This project is **for educational purposes only**.  
 - You may freely use and modify the code for learning and teaching.  
-- © 2026 [Your Name]. All rights reserved.
+- © 2026 Jawahambla. All rights reserved.
 
 ---
